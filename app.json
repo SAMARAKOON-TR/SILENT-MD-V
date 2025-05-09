@@ -1,7 +1,7 @@
 {
   "name": "SILENT MD V1",
   "description": "A Simple whatsapp bot",
-  "logo": "",
+  "logo": "https://files.catbox.moe/g69xqv.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
